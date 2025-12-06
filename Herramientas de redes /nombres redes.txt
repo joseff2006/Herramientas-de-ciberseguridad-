@@ -22,5 +22,6 @@ En pocas palabras, **un IP Scanner es como un “radar” de tu red**, mostrando
 
 ¿Quieres que te muestre ejemplos de los programas de IP Scanner más usados en Windows y móviles para que veas cuál te conviene?
 
+LINK DE DESCARGA : https://www.advanced-ip-scanner.com/es/
 
 ################################################################################################################################
