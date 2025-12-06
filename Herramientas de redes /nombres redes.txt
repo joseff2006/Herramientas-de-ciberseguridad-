@@ -1,1 +1,26 @@
 
+#########################################################################################################################
+ip scaner : se usa para escanear redes y visualizar las redes que estan en el mismo router en el que estoy 
+Un **IP Scanner** es una herramienta que analiza una red para descubrir todos los dispositivos conectados y mostrar información clave sobre ellos.  
+
+
+
+### 🔍 ¿Qué funciones cumple?
+- **Detectar dispositivos conectados:** Encuentra computadoras, teléfonos, impresoras, cámaras IP, routers y cualquier aparato en la red.  
+- **Mostrar direcciones IP y MAC:** Identifica la dirección IP (lógica) y la dirección MAC (física) de cada dispositivo.  
+- **Revisar servicios activos:** Puede mostrar si un equipo tiene carpetas compartidas, servidores web, FTP o impresoras disponibles.  
+- **Control remoto:** Algunos escáneres permiten conectarse a otros equipos mediante RDP o apagar/encender PCs de forma remota.  
+- **Seguridad:** Ayuda a detectar intrusos o dispositivos no autorizados en tu red Wi-Fi.  
+- **Exportar resultados:** Los datos obtenidos se pueden guardar para análisis posteriores.  
+
+### 🛠️ Usos comunes
+- **Administradores de red:** Para gestionar y monitorear grandes redes.  
+- **Empresas:** Para mantener seguridad y rendimiento en sus sistemas.  
+- **Usuarios domésticos:** Para saber quién está conectado al Wi-Fi y evitar que terceros lo usen sin permiso.  
+
+En pocas palabras, **un IP Scanner es como un “radar” de tu red**, mostrando qué dispositivos están conectados y qué hacen.  
+
+¿Quieres que te muestre ejemplos de los programas de IP Scanner más usados en Windows y móviles para que veas cuál te conviene?
+
+
+################################################################################################################################
