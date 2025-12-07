@@ -1,1 +1,37 @@
-Backend :
+1 ✅ Frontend
+
+Es todo lo que el usuario ve y con lo que interactúa.
+
+Ejemplos:
+
+La pantalla de una página web
+
+Botones, colores, texto, imágenes
+
+Formularios, menús, animaciones
+
+La interfaz de una app
+
+👉 Es la parte visual.
+👉 Lo que está “de frente” al usuario.
+
+2 ✅ Backend
+
+Es la parte interna del sistema que procesa datos, reglas y funciones, y que el usuario NO ve.
+
+Ejemplos:
+
+Servidores
+
+Bases de datos
+
+Seguridad
+
+Validaciones
+
+Procesos que se ejecutan detrás
+
+Todo lo que conecta el sistema con la red
+
+👉 Es la parte lógica y funcional.
+👉 Lo que está “detrás” del sistema.
